@@ -1,12 +1,12 @@
 # Web Archive Downloader
 
-[![Release](https://img.shields.io/badge/release-v1.0--rc1-blue)](https://github.com/pinkythegawd/ArchiveKit/releases)
+[![Release](https://img.shields.io/github/v/release/pinkythegawd/ArchiveKit?include_prereleases)](https://github.com/pinkythegawd/ArchiveKit/releases/tag/v1.0-rc1)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-0A7E3B)](https://github.com/pinkythegawd/ArchiveKit)
 [![Open Source](https://img.shields.io/badge/open%20source-yes-1f883d)](https://github.com/pinkythegawd/ArchiveKit)
 [![Stars](https://img.shields.io/github/stars/pinkythegawd/ArchiveKit?style=social)](https://github.com/pinkythegawd/ArchiveKit/stargazers)
 [![Issues](https://img.shields.io/github/issues/pinkythegawd/ArchiveKit)](https://github.com/pinkythegawd/ArchiveKit/issues)
-[![Downloads](https://img.shields.io/github/downloads/pinkythegawd/ArchiveKit/total)](https://github.com/pinkythegawd/ArchiveKit/releases)
+[![Downloads](https://img.shields.io/github/downloads/pinkythegawd/ArchiveKit/v1.0-rc1/total)](https://github.com/pinkythegawd/ArchiveKit/releases/tag/v1.0-rc1)
 [![License](https://img.shields.io/github/license/pinkythegawd/ArchiveKit)](https://github.com/pinkythegawd/ArchiveKit/blob/main/LICENSE)
 [![CI](https://github.com/pinkythegawd/ArchiveKit/actions/workflows/ci.yml/badge.svg)](https://github.com/pinkythegawd/ArchiveKit/actions/workflows/ci.yml)
 
